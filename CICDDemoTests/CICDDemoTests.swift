@@ -19,6 +19,6 @@ class CICDDemoTests: XCTestCase {
     }
 
     func testExample() {
-        XCTAssertTrue(1 == 1)
+        XCTAssertTrue(1 == 2)
     }
 }
